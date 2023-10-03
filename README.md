@@ -17,7 +17,7 @@ VirusTotal:
 
 Compatibilidad:
 
-Todas las ediciones de Windows 10/11
+Todas las ediciones de Windows 10 y Superior
 
 Tested on Windows Server 2022
 
