@@ -17,9 +17,7 @@ VirusTotal:
 
 https://www.virustotal.com/gui/file/f3ae6138fc9f6115ea087ac3e72d1d0799fe09eb7619d92575002650f014ebda
 
-Compatibilidad:
-
-Todas las ediciones de Windows 10 y Superior
+Compatible con Windows 10 y Superior
 
 Tested on Windows Server 2022
 
