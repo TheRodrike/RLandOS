@@ -2,6 +2,7 @@
 RLand OS For Windows
 
 RLand OS es un script para windows que se encarga de perosnalizar, mejorar el rendimiento y agregar nuevas apps a su PC
+
 Instalacion:
 
 1 - Abra un Powershell como Administrador
@@ -14,7 +15,9 @@ iwr -useb "https://raw.githubusercontent.com/TheRodrike/RLandOS/main/RLandOSInst
 
 VirusTotal:
 
-Compatible con todas las ediciones de Windows
+Compatibilidad:
+
+Todas las ediciones de Windows 10/11
 
 Tested on Windows Server 2022
 
