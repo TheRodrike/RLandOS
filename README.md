@@ -15,7 +15,7 @@ iwr -useb "https://raw.githubusercontent.com/TheRodrike/RLandOS/main/RLandOSInst
 
 VirusTotal:
 
-https://www.virustotal.com/gui/file/0538f36c7783ba3f661c0d4715d38928a86dd15be6b4572117225b3752f3c5e9?nocache=1
+https://www.virustotal.com/gui/file/556763f6968d8fede2fd140b63a2f6c5340432b2ff3dc27cf8758824ac8e1274
 
 Compatible con Windows 10 y Superior
 
