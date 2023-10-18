@@ -17,8 +17,6 @@ VirusTotal:
 
 https://www.virustotal.com/gui/file/1e21c1a8377bbca6fa8e41163efbca86bafca77f6bc2a5221dd2db9228b29ca1
 
-Compatible con Windows 10 y Superior
-
-Tested on Windows Server 2022
+Tested on Windows Server V Next
 
 By TheRodrike
