@@ -9,13 +9,13 @@ Instalacion:
 
 2 - Ejecute este comando en el Powershell:
 
-iwr -useb "https://raw.githubusercontent.com/TheRodrike/RLandOS/main/RLandOSInstall.ps1" | iex
+iwr -useb 'https://raw.githubusercontent.com/TheRodrike/RLandOS/main/RLandOSInstall.ps1' | iex
 
 3 - Siga los pasos detallados en el Script
 
 VirusTotal:
 
-https://www.virustotal.com/gui/file/8b2dda97008b8fa6c5ff0cd3cb39931966360fb01580e6865990b63ed591c55b
+https://www.virustotal.com/gui/file/21f51e4a027420f2651af8da240ab2cf01a2d61d9330b2120903f2fec20c996e
 
 Compatible con Windows 10 y Superior
 
