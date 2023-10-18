@@ -17,10 +17,6 @@ VirusTotal:
 
 https://www.virustotal.com/gui/file/1e21c1a8377bbca6fa8e41163efbca86bafca77f6bc2a5221dd2db9228b29ca1
 
-Compatibilidad con todas las ediciones de windows
-
-Tested on Windows Server VNext
-
 ![Texto alternativo](https://raw.githubusercontent.com/TheRodrike/RLandOS/main/RLandOS/RLandOS.jpg)
 
 By TheRodrike
