@@ -21,6 +21,6 @@ Compatibilidad con todas las ediciones de windows
 
 Tested on Windows Server VNext
 
-By TheRodrike
-
 ![Texto alternativo](https://raw.githubusercontent.com/TheRodrike/RLandOS/main/RLandOS/RLandOS.jpg)
+
+By TheRodrike
