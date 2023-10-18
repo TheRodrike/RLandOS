@@ -1,7 +1,7 @@
 # RLandOS
 RLand OS For Windows
 
-RLand OS es un script para windows que se encarga de perosnalizar, mejorar el rendimiento y agregar nuevas apps a su PC
+RLand OS es un script para Windows que se encarga de perosnalizar, mejorar el rendimiento y agregar nuevas apps a su PC
 
 Instalacion:
 
